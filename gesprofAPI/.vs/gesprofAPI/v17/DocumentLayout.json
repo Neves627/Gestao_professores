@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\GestaoProfessores\\Gestprof\\Gestao_professores\\gesprofAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F3C7908-6343-44C3-A147-3CF2C65F3B7F}|gesprofAPI\\gesprofAPI.csproj|c:\\users\\diogo\\desktop\\estagio\\pratica\\gestaoprofessores\\gestprof\\gestao_professores\\gesprofapi\\gesprofapi\\models\\professorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F3C7908-6343-44C3-A147-3CF2C65F3B7F}|gesprofAPI\\gesprofAPI.csproj|solutionrelative:gesprofapi\\models\\professorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F3C7908-6343-44C3-A147-3CF2C65F3B7F}|gesprofAPI\\gesprofAPI.csproj|c:\\users\\diogo\\desktop\\estagio\\pratica\\gestaoprofessores\\gestprof\\gestao_professores\\gesprofapi\\gesprofapi\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F3C7908-6343-44C3-A147-3CF2C65F3B7F}|gesprofAPI\\gesprofAPI.csproj|solutionrelative:gesprofapi\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3C7908-6343-44C3-A147-3CF2C65F3B7F}|gesprofAPI\\gesprofAPI.csproj|c:\\users\\diogo\\desktop\\estagio\\pratica\\gestaoprofessores\\gestprof\\gestao_professores\\gesprofapi\\gesprofapi\\models\\professorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3C7908-6343-44C3-A147-3CF2C65F3B7F}|gesprofAPI\\gesprofAPI.csproj|solutionrelative:gesprofapi\\models\\professorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F3C7908-6343-44C3-A147-3CF2C65F3B7F}|gesprofAPI\\gesprofAPI.csproj|c:\\users\\diogo\\desktop\\estagio\\pratica\\gestaoprofessores\\gestprof\\gestao_professores\\gesprofapi\\gesprofapi\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Professor.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\GestaoProfessores\\Gestprof\\Gestao_professores\\gesprofAPI\\gesprofAPI\\Models\\Professor.cs",
               "RelativeDocumentMoniker": "gesprofAPI\\Models\\Professor.cs",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProfessorContext.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\GestaoProfessores\\Gestprof\\Gestao_professores\\gesprofAPI\\gesprofAPI\\Models\\ProfessorContext.cs",
               "RelativeDocumentMoniker": "gesprofAPI\\Models\\ProfessorContext.cs",
